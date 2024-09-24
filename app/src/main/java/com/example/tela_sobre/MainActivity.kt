@@ -72,9 +72,9 @@ fun TelaSobre(modifier: Modifier = Modifier) {
                 )
             }
 
-            item { InfoRow(icon = Icons.Filled.Person, info = "Nome: [Seu Nome]") }
+            item { InfoRow(icon = Icons.Filled.Person, info = "Nome: Vinícius Ribau") }
             item { InfoRow(icon = Icons.Filled.Star, info = "Idade: 21 anos") }
-            item { InfoRow(icon = Icons.Filled.Info, info = "Curso: [Seu Curso]") }
+            item { InfoRow(icon = Icons.Filled.Info, info = "Curso: Ciência da Computação") }
             item { InfoRow(icon = Icons.Filled.Star, info = "Interesses: Kotlin, Android, Desenvolvimento Mobile") }
 
             item {
